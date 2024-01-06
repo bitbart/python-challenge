@@ -78,3 +78,4 @@
 ## Esercizi con Turtle
 * [Cerchi concentrici](turtle-exercises/cerchi-concentrici)
 * [Bouncing turtle](turtle-exercises/bouncing-turtle)
+* [Avoid the wall](turtle-exercises/avoid-the-wall)
