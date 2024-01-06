@@ -76,4 +76,5 @@
   * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/easy-exercises/cartaforbicesasso)
 
 ## Esercizi con Turtle
-  * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/easy-exercises/cerchi-concentrici)
+  * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/turtle-exercises/cerchi-concentrici)
+  * [Bouncing turtle](https://github.com/bitbart/labinf/tree/main/turtle-exercises/bouncing-turtle)
