@@ -50,5 +50,5 @@ turtle.setposition(0, -50)
 turtle.write("Score =" + str(score), align="center", font=("Courier", 8))
 print("Final score: " + str(score))
 
-print("Press any key to exit...")
-input()
+print("Click mouse to exit...")
+turtle.exitonclick()
